@@ -233,7 +233,3 @@ Known limitations:
 * The BPM estimation is basic and should not be treated as a medical measurement.
 * The program is not a diagnostic medical tool.
 
-## License
-
-No license has been specified yet.
-Add a license before using or distributing this project publicly.
