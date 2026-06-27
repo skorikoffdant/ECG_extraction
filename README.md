@@ -42,8 +42,8 @@ The program processes ECG screenshots and scanned/photographed ECG printouts, re
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/skorikoffdant/ECG_extraction.git
+cd ECG_extraction
 ```
 
 Create and activate a virtual environment:
